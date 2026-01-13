@@ -11,8 +11,6 @@
         T E R M I N A L   P O R T F O L I O
 ```
 
-<img width="1200" height="475" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
 [![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-nyx0--portfolio.vercel.app-fe8019?style=for-the-badge)](https://nyx0-portfolio.vercel.app/)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-92.4%25-3178c6?style=flat-square&logo=typescript&logoColor=white)](/)
@@ -23,7 +21,7 @@
 
 **A Retro-Futuristic Terminal-Style Portfolio With CRT Aesthetics, Smooth Animations, And An AI-Powered Chat Terminal.**
 
-[🌐 Live Demo](https://nyx0-portfolio.vercel. app/) · [Report Bug](https://github.com/Siddharthk17/Portfolio/issues) · [Request Feature](https://github.com/Siddharthk17/Portfolio/issues)
+[🌐 Live Demo](https://nyx0-portfolio.vercel.app/) · [Report Bug](https://github.com/Siddharthk17/Portfolio/issues) · [Request Feature](https://github.com/Siddharthk17/Portfolio/issues)
 
 </div>
 
